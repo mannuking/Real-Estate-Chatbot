@@ -1,0 +1,8 @@
+plaintext
+streamlit
+python-dotenv
+pandas
+pypdf2
+google-generativeai
+protobuf==3.20.1
+proto-plus==1.19.8
